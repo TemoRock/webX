@@ -1,0 +1,688 @@
+HTTrack3.49-1+htsswf+htsjava launched on Fri, 16 Feb 2024 09:47:39 at http://www.turnjs.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://www.turnjs.com/ -O1 "C:\My Web Sites\FLIPBOOK" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:47:40	Warning: 	Moved Temporarily for www.turnjs.com/robots.txt
+09:47:40	Warning: 	File has moved from www.turnjs.com/robots.txt to /
+09:49:02	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/blasten/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+09:49:04	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/blasten/turn.js/used_by_list
+09:49:11	Warning: 	Moved Permanently for www.turnjs.com/docs/
+09:49:11	Warning: 	File has moved from www.turnjs.com/docs/ to http://turnjs.com/docs/index.php/Main_Page
+09:50:11	Error: 	"Not Found" (404) at link www.turnjs.com/docs/Option:_zoom (from www.turnjs.com/)
+09:52:46	Error: 	"Not Found" (404) at link www.turnjs.com/docs/Class:_.end (from www.turnjs.com/)
+09:53:32	Error: 	"Not Found" (404) at link https://github.com/blasten/"/_esi/rails_csrf_token_form_hidden?r=c21FbcZBxvC6BFqPHUuXVDkVwQUdcRjhbsxv28S26BIk26b%2BfW5X3BN%2BV%2Fw5X%2FKLUOuEN0BGYguEpHzFk0DJDZn8ITsoxtuE2D79Ot7kppHgk4L1a9%2F9FK56QvM4YMxfq8dzO4lbaTLWMhJbPppGiMsCLs5ZFvK4j%2FOcJF36Ppea4WmV7lf3J5XE7SMUkQzkKFS1sF46HLgxSqQNRusChYcWtyuFs4UT9qTVWRWOBjodGxMxMakvSR%2BiX3dnKBTrq1GGiV5cvxSupaYsoQDnr%2FgHtEVH%2Bd60X9L0ozibtFimTH2rRnUqjduNMqGyaF5%2FxbX0sLDpwgAK4RUiSVDq7srBV39zGh7BlrdMp9K34fP4iE01XUdDizie8ow4DEIzr1ATJRdMuvzIUJxy8gZXf0T0QuJnB%2BwhYjeMsrgBdyhB2f1XlaJadJFvk5RQfT9KzFBgyw2MvkCShEFqwPhjQF7wAm4C76KfwUl92KGVJG%2BXVChUgYgiiD%2Blx%2BQ1Oau5S5ksRX%2BnP%2BOgDg%3D%3D--YaxpGtc3Zam0q0C9--4lkZtqj6xxvFolMTlEdy6w%3D%3D%22 (from https://github.com/blasten/turn.js)
+09:55:53	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/security/overall-count (from https://github.com/blasten/turn.js)
+09:56:47	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+acceleration not scanned (follow robots meta tag)
+09:56:47	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_acceleration&action=edit not scanned (follow robots meta tag)
+09:56:47	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_acceleration&action=history not scanned (follow robots meta tag)
+09:57:04	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChanges (from www.turnjs.com/docs/Option:_acceleration)
+09:57:04	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_acceleration not scanned (follow robots meta tag)
+09:57:04	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_acceleration (from www.turnjs.com/docs/Option:_acceleration)
+09:57:05	Warning: 	Link www.turnjs.com/docs/index.php/Special:SpecialPages not scanned (follow robots meta tag)
+09:57:05	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_acceleration&oldid=479 not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_acceleration&action=info not scanned (follow robots meta tag)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Turn.js_Documentation:Privacy_policy (from www.turnjs.com/docs/Option:_acceleration)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Turn.js_Documentation:About (from www.turnjs.com/docs/Option:_acceleration)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Turn.js_Documentation:General_disclaimer (from www.turnjs.com/docs/Option:_acceleration)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+autoCenter not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_autoCenter&action=edit not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_autoCenter&action=history not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_autoCenter not scanned (follow robots meta tag)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_autoCenter (from www.turnjs.com/docs/Option:_autoCenter)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_autoCenter&oldid=802 not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_autoCenter&action=info not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+direction not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_direction&action=edit not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_direction&action=history not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_direction not scanned (follow robots meta tag)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_direction (from www.turnjs.com/docs/Option:_direction)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_direction&oldid=803 not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_direction&action=info not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+display not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_display&action=edit not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_display&action=history not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_display not scanned (follow robots meta tag)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_display (from www.turnjs.com/docs/Option:_display)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_display&oldid=481 not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_display&action=info not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+duration not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_duration&action=edit not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_duration&action=history not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_duration not scanned (follow robots meta tag)
+09:57:06	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_duration (from www.turnjs.com/docs/Option:_duration)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_duration&oldid=482 not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_duration&action=info not scanned (follow robots meta tag)
+09:57:06	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+gradients not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_gradients&action=edit not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_gradients&action=history not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_gradients not scanned (follow robots meta tag)
+09:57:07	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_gradients (from www.turnjs.com/docs/Option:_gradients)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_gradients&oldid=483 not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_gradients&action=info not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+height not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_height&action=edit not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_height&action=history not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_height not scanned (follow robots meta tag)
+09:57:07	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_height (from www.turnjs.com/docs/Option:_height)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_height&oldid=484 not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_height&action=info not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+elevation not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_elevation&action=edit not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_elevation&action=history not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_elevation not scanned (follow robots meta tag)
+09:57:07	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_elevation (from www.turnjs.com/docs/Option:_elevation)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_elevation&oldid=763 not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_elevation&action=info not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+page not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_page&action=edit not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_page&action=history not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_page not scanned (follow robots meta tag)
+09:57:07	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_page (from www.turnjs.com/docs/Option:_page)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_page&oldid=486 not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_page&action=info not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+pages not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_pages&action=edit not scanned (follow robots meta tag)
+09:57:07	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_pages&action=history not scanned (follow robots meta tag)
+09:57:08	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_pages not scanned (follow robots meta tag)
+09:57:08	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_pages (from www.turnjs.com/docs/Option:_pages)
+09:57:08	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_pages&oldid=487 not scanned (follow robots meta tag)
+09:57:08	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_pages&action=info not scanned (follow robots meta tag)
+09:57:11	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+turnCorners not scanned (follow robots meta tag)
+09:57:11	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_turnCorners&action=edit not scanned (follow robots meta tag)
+09:57:11	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_turnCorners&action=history not scanned (follow robots meta tag)
+09:57:11	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_turnCorners not scanned (follow robots meta tag)
+09:57:11	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_turnCorners (from www.turnjs.com/docs/Option:_turnCorners)
+09:57:11	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_turnCorners&oldid=805 not scanned (follow robots meta tag)
+09:57:11	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_turnCorners&action=info not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+when not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_when&action=edit not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_when&action=history not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_when not scanned (follow robots meta tag)
+09:57:16	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_when (from www.turnjs.com/docs/Option:_when)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_when&oldid=576 not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_when&action=info not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Option%3A+width not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_width&action=edit not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_width&action=history not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Option:_width not scanned (follow robots meta tag)
+09:57:16	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Option:_width (from www.turnjs.com/docs/Option:_width)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_width&oldid=490 not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Option:_width&action=info not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+animating not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_animating&action=edit not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_animating&action=history not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_animating not scanned (follow robots meta tag)
+09:57:16	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_animating (from www.turnjs.com/docs/Property:_animating)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_animating&oldid=806 not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_animating&action=info not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+direction not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_direction&action=edit not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_direction&action=history not scanned (follow robots meta tag)
+09:57:16	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_direction not scanned (follow robots meta tag)
+09:57:17	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_direction (from www.turnjs.com/docs/Property:_direction)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_direction&oldid=739 not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_direction&action=info not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+display not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_display&action=edit not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_display&action=history not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_display not scanned (follow robots meta tag)
+09:57:17	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_display (from www.turnjs.com/docs/Property:_display)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_display&oldid=666 not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_display&action=info not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+disabled not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_disabled&action=edit not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_disabled&action=history not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_disabled not scanned (follow robots meta tag)
+09:57:17	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_disabled (from www.turnjs.com/docs/Property:_disabled)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_disabled&oldid=407 not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_disabled&action=info not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+page not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_page&action=edit not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_page&action=history not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_page not scanned (follow robots meta tag)
+09:57:17	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_page (from www.turnjs.com/docs/Property:_page)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_page&oldid=395 not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_page&action=info not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+pages not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_pages&action=edit not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_pages&action=history not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_pages not scanned (follow robots meta tag)
+09:57:17	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_pages (from www.turnjs.com/docs/Property:_pages)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_pages&oldid=398 not scanned (follow robots meta tag)
+09:57:17	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_pages&action=info not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+size not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_size&action=edit not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_size&action=history not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_size not scanned (follow robots meta tag)
+09:57:18	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_size (from www.turnjs.com/docs/Property:_size)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_size&oldid=401 not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_size&action=info not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+options not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_options&action=edit not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_options&action=history not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_options not scanned (follow robots meta tag)
+09:57:18	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_options (from www.turnjs.com/docs/Property:_options)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_options&oldid=807 not scanned (follow robots meta tag)
+09:57:18	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_options&action=info not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+view not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_view&action=edit not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_view&action=history not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_view not scanned (follow robots meta tag)
+09:57:22	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_view (from www.turnjs.com/docs/Property:_view)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_view&oldid=307 not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_view&action=info not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Property%3A+zoom not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_zoom&action=edit not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_zoom&action=history not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Property:_zoom not scanned (follow robots meta tag)
+09:57:22	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Property:_zoom (from www.turnjs.com/docs/Property:_zoom)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_zoom&oldid=403 not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Property:_zoom&action=info not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+addPage not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_addPage&action=edit not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_addPage&action=history not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_addPage not scanned (follow robots meta tag)
+09:57:22	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_addPage (from www.turnjs.com/docs/Method:_addPage)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_addPage&oldid=474 not scanned (follow robots meta tag)
+09:57:22	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_addPage&action=info not scanned (follow robots meta tag)
+09:57:23	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+center not scanned (follow robots meta tag)
+09:57:23	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_center&action=edit not scanned (follow robots meta tag)
+09:57:23	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_center&action=history not scanned (follow robots meta tag)
+09:57:23	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_center not scanned (follow robots meta tag)
+09:57:23	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_center (from www.turnjs.com/docs/Method:_center)
+09:57:23	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_center&oldid=342 not scanned (follow robots meta tag)
+09:57:23	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_center&action=info not scanned (follow robots meta tag)
+09:57:26	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+destroy not scanned (follow robots meta tag)
+09:57:26	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_destroy&action=edit not scanned (follow robots meta tag)
+09:57:26	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_destroy&action=history not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_destroy not scanned (follow robots meta tag)
+09:57:27	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_destroy (from www.turnjs.com/docs/Method:_destroy)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_destroy&oldid=594 not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_destroy&action=info not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+direction not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_direction&action=edit not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_direction&action=history not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_direction not scanned (follow robots meta tag)
+09:57:27	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_direction (from www.turnjs.com/docs/Method:_direction)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_direction&oldid=740 not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_direction&action=info not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+display not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_display&action=edit not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_display&action=history not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_display not scanned (follow robots meta tag)
+09:57:27	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_display (from www.turnjs.com/docs/Method:_display)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_display&oldid=668 not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_display&action=info not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+disable not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_disable&action=edit not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_disable&action=history not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_disable not scanned (follow robots meta tag)
+09:57:27	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_disable (from www.turnjs.com/docs/Method:_disable)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_disable&oldid=827 not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_disable&action=info not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+hasPage not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_hasPage&action=edit not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_hasPage&action=history not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_hasPage not scanned (follow robots meta tag)
+09:57:27	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_hasPage (from www.turnjs.com/docs/Method:_hasPage)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_hasPage&oldid=798 not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_hasPage&action=info not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+next not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_next&action=edit not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_next&action=history not scanned (follow robots meta tag)
+09:57:27	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_next not scanned (follow robots meta tag)
+09:57:27	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_next (from www.turnjs.com/docs/Method:_next)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_next&oldid=378 not scanned (follow robots meta tag)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_next&action=info not scanned (follow robots meta tag)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+is not scanned (follow robots meta tag)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_is&action=edit not scanned (follow robots meta tag)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_is&action=history not scanned (follow robots meta tag)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_is not scanned (follow robots meta tag)
+09:57:28	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_is (from www.turnjs.com/docs/Method:_is)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_is&oldid=361 not scanned (follow robots meta tag)
+09:57:28	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_is&action=info not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+page not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_page&action=edit not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_page&action=history not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_page not scanned (follow robots meta tag)
+09:57:32	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_page (from www.turnjs.com/docs/Method:_page)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_page&oldid=414 not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_page&action=info not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+pages not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_pages&action=edit not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_pages&action=history not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_pages not scanned (follow robots meta tag)
+09:57:32	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_pages (from www.turnjs.com/docs/Method:_pages)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_pages&oldid=400 not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_pages&action=info not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+peel not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_peel&action=edit not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_peel&action=history not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_peel not scanned (follow robots meta tag)
+09:57:32	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_peel (from www.turnjs.com/docs/Method:_peel)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_peel&oldid=706 not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_peel&action=info not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+previous not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_previous&action=edit not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_previous&action=history not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_previous not scanned (follow robots meta tag)
+09:57:32	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_previous (from www.turnjs.com/docs/Method:_previous)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_previous&oldid=370 not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_previous&action=info not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+range not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_range&action=edit not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_range&action=history not scanned (follow robots meta tag)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_range not scanned (follow robots meta tag)
+09:57:32	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_range (from www.turnjs.com/docs/Method:_range)
+09:57:32	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_range&oldid=380 not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_range&action=info not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+removePage not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_removePage&action=edit not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_removePage&action=history not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_removePage not scanned (follow robots meta tag)
+09:57:33	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_removePage (from www.turnjs.com/docs/Method:_removePage)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_removePage&oldid=383 not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_removePage&action=info not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+resize not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_resize&action=edit not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_resize&action=history not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_resize not scanned (follow robots meta tag)
+09:57:33	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_resize (from www.turnjs.com/docs/Method:_resize)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_resize&oldid=385 not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_resize&action=info not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+size not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_size&action=edit not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_size&action=history not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_size not scanned (follow robots meta tag)
+09:57:33	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_size (from www.turnjs.com/docs/Method:_size)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_size&oldid=402 not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_size&action=info not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+stop not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_stop&action=edit not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_stop&action=history not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_stop not scanned (follow robots meta tag)
+09:57:33	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_stop (from www.turnjs.com/docs/Method:_stop)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_stop&oldid=388 not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_stop&action=info not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+version not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_version&action=edit not scanned (follow robots meta tag)
+09:57:33	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_version&action=history not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_version not scanned (follow robots meta tag)
+09:57:34	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_version (from www.turnjs.com/docs/Method:_version)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_version&oldid=672 not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_version&action=info not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Method%3A+zoom not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_zoom&action=edit not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_zoom&action=history not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Method:_zoom not scanned (follow robots meta tag)
+09:57:34	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Method:_zoom (from www.turnjs.com/docs/Method:_zoom)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_zoom&oldid=412 not scanned (follow robots meta tag)
+09:57:34	Warning: 	Link www.turnjs.com/docs/index.php?title=Method:_zoom&action=info not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+end not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_end&action=edit not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_end&action=history not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_end not scanned (follow robots meta tag)
+09:57:38	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_end (from www.turnjs.com/docs/Event:_end)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_end&oldid=815 not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_end&action=info not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+first not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_first&action=edit not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_first&action=history not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_first not scanned (follow robots meta tag)
+09:57:38	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_first (from www.turnjs.com/docs/Event:_first)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_first&oldid=471 not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_first&action=info not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+last not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_last&action=edit not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_last&action=history not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_last not scanned (follow robots meta tag)
+09:57:38	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_last (from www.turnjs.com/docs/Event:_last)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_last&oldid=472 not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_last&action=info not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+missing not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_missing&action=edit not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_missing&action=history not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_missing not scanned (follow robots meta tag)
+09:57:38	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_missing (from www.turnjs.com/docs/Event:_missing)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_missing&oldid=811 not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_missing&action=info not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+start not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_start&action=edit not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_start&action=history not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_start not scanned (follow robots meta tag)
+09:57:38	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_start (from www.turnjs.com/docs/Event:_start)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_start&oldid=814 not scanned (follow robots meta tag)
+09:57:38	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_start&action=info not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+turning not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turning&action=edit not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turning&action=history not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_turning not scanned (follow robots meta tag)
+09:57:39	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_turning (from www.turnjs.com/docs/Event:_turning)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turning&oldid=813 not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turning&action=info not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+zooming not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_zooming&action=edit not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_zooming&action=history not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_zooming not scanned (follow robots meta tag)
+09:57:39	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_zooming (from www.turnjs.com/docs/Event:_zooming)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_zooming&oldid=810 not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_zooming&action=info not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.fixed not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.fixed&action=edit not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.fixed&action=history not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.fixed not scanned (follow robots meta tag)
+09:57:39	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.fixed (from www.turnjs.com/docs/Class:_.fixed)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.fixed&oldid=492 not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.fixed&action=info not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.hard not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.hard&action=edit not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.hard&action=history not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.hard not scanned (follow robots meta tag)
+09:57:39	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.hard (from www.turnjs.com/docs/Class:_.hard)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.hard&oldid=774 not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.hard&action=info not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.odd not scanned (follow robots meta tag)
+09:57:39	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.odd&action=edit not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.odd&action=history not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.odd not scanned (follow robots meta tag)
+09:57:40	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.odd (from www.turnjs.com/docs/Class:_.odd)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.odd&oldid=495 not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.odd&action=info not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.own-size not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.own-size&action=edit not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.own-size&action=history not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.own-size not scanned (follow robots meta tag)
+09:57:40	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.own-size (from www.turnjs.com/docs/Class:_.own-size)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.own-size&oldid=760 not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.own-size&action=info not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.page not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.page&action=edit not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.page&action=history not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.page not scanned (follow robots meta tag)
+09:57:40	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.page (from www.turnjs.com/docs/Class:_.page)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.page&oldid=499 not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.page&action=info not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.p not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.p&action=edit not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.p&action=history not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.p not scanned (follow robots meta tag)
+09:57:40	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.p (from www.turnjs.com/docs/Class:_.p)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.p&oldid=819 not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.p&action=info not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.shadow not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.shadow&action=edit not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.shadow&action=history not scanned (follow robots meta tag)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.shadow not scanned (follow robots meta tag)
+09:57:40	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.shadow (from www.turnjs.com/docs/Class:_.shadow)
+09:57:40	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.shadow&oldid=820 not scanned (follow robots meta tag)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.shadow&action=info not scanned (follow robots meta tag)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Class%3A+.sheet not scanned (follow robots meta tag)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.sheet&action=edit not scanned (follow robots meta tag)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.sheet&action=history not scanned (follow robots meta tag)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Class:_.sheet not scanned (follow robots meta tag)
+09:57:41	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Class:_.sheet (from www.turnjs.com/docs/Class:_.sheet)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.sheet&oldid=506 not scanned (follow robots meta tag)
+09:57:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Class:_.sheet&action=info not scanned (follow robots meta tag)
+09:57:44	Error: 	"Not Found" (404) at link https://github.com/email_validity_checks (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=blasten%2Fturn.js)
+09:57:44	Error: 	"Not Found" (404) at link https://github.com/password_validity_checks (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=blasten%2Fturn.js)
+09:57:44	Error: 	"Not Found" (404) at link https://github.com/signup_check/username (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=blasten%2Fturn.js)
+09:57:56	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/blob/master/"/_esi/rails_csrf_token_form_hidden?r=H9pJ8na2nLXN396QAJnjiWhLw3EWYRHO09R%2B8fNmTS4q4mGEW3AeBgOBq0Gogmf3j1QEkYcjSajyL07KGeJiyu6sBlF%2FmXQMPz7ecCoJ54Dvkr9HsdZt78ZpnplCRs87NwYZOBPgAO0JYQFgcRGixLBc%2BzmozSfVZTYMxU5PLmea6c13lPrxN1MRRUWYO6brDMSR%2FOLePcByPP7gO7G%2FOr2DZ8nr66lxUhhUIqc0gUzpYasF95a0U1dLsB9VY3dGxzM%2BXG6A3ZgSKPtqCHbgN3ex85FZ3HZ1bNztiRqPkSEUFuniF2MG6zz17DkfCVYVD7l0jWyQNQZxqLaqTdwZWBkc%2FGFgJ0jwaV%2BLkydxO%2BeolMmI%2B2ogYAtoo%2BB3yrQVqAK6k3NSqSRYx6%2FOCiiY3UEodjoAv9EP13dyc8GNg22LnlTa0OeIKpjivjseI4WVY1Dg9HMHjvUEY46mM8aiKZo27oJlDyVKLXXS3yySjSZGy%2BtwYrNou70SF0lTt7yzFDV4JCFR9Xn2OnErtr27bXHKKRPvJ6h%2FMMlmC1Q29VMNpu%2BuVHWKhdIq--5vKiV1Wxpb16SGEy--922TZixON9YyJl7mtaeBqQ%3D%3D%22 (from https://github.com/blasten/turn.js/blob/master/license.txt)
+09:57:56	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=5HzaJw2gHPLKFcIA19gvp5IrKyUDawz0G3slcdfRoqwNYeTKB0inuoxl9pjzTsr26LQ%2Fq3idrjp9R6i6bmL8ztNtW8iUNLoUTAeh1vVkUwxHYr9Vp0yiAOyzeCTnTRHbT53uz9%2BUsO9X8WxTwj%2BqSGSPVFgk4nR9U1rWAMyomzFjBwMUhAtWrgU47ZcGOjIAyWY0WHkvoHuQ6wUocFBA358kQcyPDhvaKdjujF%2Bbl5BTEli00F6gbLCflAeODT5aMyz%2Bdb7aFa4rcqhhCs%2BL7EAkE4Bh1ERsbLg8Q9VzVf6q7yjdbOhILprJbO8TosxR2ceMooml%2F%2FhflRwxnmXyWfMoSewCMQGc1b15MiSKMZhp1WqoJHTY6Q1tFx9xD%2Fb4fRX%2F6Njn3ao6BAPb2KhR3YcxvmEQxEo5ac3pD0v9XWOmoT0Ya5qk23w9JkOVPstZyHy85b2M4SX9hZqkR8Si8CGt6whjH381nrqpzqm17QvPTv%2BK7LSOAG12USLNg5qzXCIXshfW1zlu3GfawmJczLeYQH91ImfQwE4%3D--nozzpWW3wBwWLJib--GhqqStm%2BEju0o%2BvntYebZw%3D%3D%22 (from https://github.com/blasten/turn.js/stargazers)
+09:57:59	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=GcxfLYo1GprpBcLO997lE9EcV%2B6TH37KhiH%2BJ90kyCb%2FD%2Bm0uvuA26OYgKUggagbAbc1kyxZOI8GCpKeTXrugVrxeI7FceBMhKqhNoilhEeDZ2ebkr0Hxn%2FFny7yqXF%2FpVFBEUkH7%2BhDRdO%2FmvuVuU9GAu1QxoRuRMu95EEZksCFdGD2HoMmsqiiKomzBTYSiAE1OkWpLL7CmO7Q1lcKvwiOhCsQZaDYr0tR8pSCPLwka5IFuDt9He5Ns2qM%2BDbxdf4ETcVGamkDn%2BZjWb6tpqAslEAYSCqESLzPA2cv6W%2BXeb1QO4nZ0XZQKW5fD29T7PxwrM5ZGqC9GnfneW%2FB0KBvoIna3krUqwnYaOVwU21OL5zFXQbNWYaKlL8kKzQw6O3oecPZdS9GHG5apwSxG0tbpYSwOAbZAtNEMeB9nayMN90t1bVGZsiXBQ6Mc%2B9rCrC2ZO24cwuUKoe6Na8nPaS2QmNRoA8k6naAnKQYfG3BIXsN7mTRkTRTmHjkb%2FAX0AzsGHlaxIXKaR%2ForXizCTdz--ZPzVkN2hiJTwdNYP--O0qODE0CCTDOIyTaF7lRZQ%3D%3D%22 (from https://github.com/blasten/turn.js/forks)
+10:13:36	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ambagasdowa/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:13:52	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/dadangyuni/react-turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:14:15	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ehxie/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:14:29	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/emilio/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:14:46	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/filipxcs/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:15:03	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/hscannizzo/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:15:21	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/JuGGnauT/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:15:39	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/michelle-currier/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:15:56	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/RatulHasan/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:16:14	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/schnoberts1/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:16:32	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/zixsorus/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+10:16:34	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=A5tPy0mbSQ0lxtHgEYc0evvtcLhMOGHIqtQNYq6NRCeVTmNg11XsXETIlHVXlbTIKWdLN3oYSBuP16mLt0yROQ2H7u3GeXxVrs4TskUiLA%2BTObDD5%2F1sXTf7DDRSZzcqEFmxBcPud2zJwVb5Jmec4WsPdPZTuhP4rLRWfdp4TQNbAi7DBIQDST8OvmBUzQJKI7%2FVGgJ%2BzdFDd5o5X9nh6hxi7bg10muTXq9%2BUl%2BNJ0GU6DYAvg3qAe64%2BRsgo9Lq9Klse0UxB1GG0IKEZ2p1wGFLXzCH4HSufWHkT34n5zI9yR%2B1iFEElyb%2BGPsXJuWRv1Jj5RCOP3xUQAmTwpldhMTcnYYgaRGljR0w5YOysSi%2Bulp2mRlVvfGYi5kuLikIFFVbGp8eIQo9Tt2iN11ZfHNSNQM6WnlSXKI79apTCDqkJqRfeuRfljFcqors63PI%2BwTBcNyYkyjWnkHXumE4N7wlPl5dQtq8w8CAztNPIYg7zQ7qI14r7fAtMO08ZbvWy53%2FkqCdlb8sBgzpJiq9CmkVmhfFLQ%3D%3D--iwNVqXqjIx58jeIO--tOf0UUB8JJcC9jQTRBgJOg%3D%3D%22 (from https://github.com/blasten/turn.js/branches)
+10:16:39	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=6nuYXB9DYojoxrA%2B7jF8dYQ0O4j4NqARcXi9%2FYfl0U2%2FX92JvexKZcrrRnl8CLNYYtiRoPeVdYsLJ%2BiASSFvCqLN75ouUZxJj%2BbqaAQBuU2p9Zjdqf3Av8RYYqotAmsE43Wv1NProE9rQsNJcHgyaaV9xOBUm81oTYFQZLiiBD58KkY9ipdY%2FOjogc%2BdjvKUCnPwQntV%2FHegYTtSsy9%2FLfD82U5FIRtJhZ56yXqUB0RN6W0aNwbjhpSy3%2BR%2BfAhfLiHj8DxVOyhWcarvbV8cmWoTL%2FSZLAgBCjYx5SjShcJkA%2BXCvXcX060x8NREaM4LfSYXRq2NQsb7SVM9MgEGhioQL705ovXVJMkWDJEKbrUgd2wIBaIgskauXXwSesECtFhB4pDwHwO%2FSWhAsmPOB8Ug%2FYzG29y5ACt3IFoHfrnpqzoXqcWDhqZ0tpfxDhWIRtAbc9ho31vpQobxHh3xLNTtRXthYk14znaBMc4Fbc9WmWTf1qaDNQPNqhyr80%2Fp8CeDR1paZT2brxTvNP10Jz33--MImo0iDhBMk%2BsYuX--iwTkZZb4plg5qJccfqWXmA%3D%3D%22 (from https://github.com/blasten/turn.js/tags)
+10:16:40	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=liHpxLWHVdhQxGBeyrR1uC8GLJxse9lS93%2FOjJgceV5dOI36GHf%2BePNI746a0cGg%2BATzHUFl52h1%2BVjhdQp9zQhrfqMh6fx0N6usW7x3Suolyk46xNXA4NzoeD4rvx4lc9b1DLdRrPnvyM9wc4GHKtlqlEaRmWi%2BStGmcXzSiDIlwUCuO%2FLvfdjl6DhrWIzHETiXgbBRt%2FQ3PNaBBGcMXIxIqj8TEX4FKT3a9B8GBm9Ni1sV9ncIC7r9E7hlSPpy8LPzuND%2B56a3y00trgSNyYaz815kQp0Ui70myQCd57sdveoe%2BygRGx3J41Yqs1uXrVlOu7uktYlfMQyJ7w3fAsCT4ezAgKUF%2B2fkiv%2BcAhvdSBEaZn6gQEmJDRkKScWN0xlQDOwwt1r6C5FHYS16qEHEz4Q4Kbx4dkFTDux03dDPYOG9A0%2F6Sgz2wF47OQ0J62Fca5%2FtgWzpT7ua8y68rd8PIJ27F6WB%2BgX7u5H9HGS1qJqEHLeN2Yih6yAZasQ3IdIksS16Fy6rI1GrroGuplFcbA9yCg%3D%3D--s2IJorWtI6zSqyTE--FQCYxBE88zAPdHXSggAMkA%3D%3D%22 (from https://github.com/blasten/turn.js/activity)
+10:16:40	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=kGDTVRoPDM9obJ1Y%2F4vpqQiVqdBhcxFaawK8HP1AyHqQV1cOozqaNMTQ57wCZjJsqbYuBiVMU72hdveqWWPARdbLZ1m9q0jYmOpGuQP6QZOiYlaQNF7aGp4fKO%2B%2Fj%2F%2Bx2wSp63%2BWiLwQ5hOC8De7C8Wfy5FuOpFhEwLtdg7qu7M%2FWSfVtdaCvnVtX9BRl6AFRh7Swowbihe30ynOA1Lr%2BQ5VsAS1%2BjDbb1PxLpMJYAZLXe%2BJviAUhTeWebY1r%2FhpgIoyfupeNu3%2BegmgrcLfDDw3FZFYogT43qw4JS7MVNltSbiax1F3zpOyN56rRfUnjV25FMQip8%2Fi9Q7HS8tr95Cd5TIB%2BLGfWPowAhI1QDKQD7te0N0F5L1wd5VppuU8Qb9dpzKLPNSNqMBuCJ8WpmDAoL46amP9Ygt3FhVeEpJFT834pz8jTlCLc%2B2nNp0x%2F0UCvhPzBRKbFAb2TYiHrYLtpX89oXcTtDayA4w8eNYZd4L%2BzJvb9W1e8hCgs27RO0lx85lOg1W1nI4ziZCtjqHj4osfIg%3D%3D--royuj0Cpj9xqeb3R--GhQmYLyeKXRcGCkeeLD%2FvQ%3D%3D%22 (from https://github.com/blasten/turn.js/issues)
+10:27:50	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Aissue+is%3Aopen+author%3ADavidMPRocha (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Aissue+is%3Aopen+author%3ARazaAlamBhatti (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?page=2&q=is%3Aissue+is%3Aopen (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?page=3&q=is%3Aissue+is%3Aopen (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?page=4&q=is%3Aissue+is%3Aopen (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?page=5&q=is%3Aissue+is%3Aopen (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?page=14&q=is%3Aissue+is%3Aopen (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?page=15&q=is%3Aissue+is%3Aopen (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Aissue+is%3Aopen+linked%3Apr (from https://github.com/blasten/turn.js/issues)
+10:27:53	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=X9%2FSr0BH3aclzIxiad%2FuUmGXQuCU3LNODrfqUhrGzb8ABxaKc%2BIM4vKyZFNpPgAOF0YUTq5s87WRrjaASl%2Fb%2BbBmQxkjMzyrxvg9pVn0kABHINTy9mKE8jvothTMPyFDBwYnRLO43PSGPBx1xgsalLWvlu82VPLG0XfPau1wE66vfilW3Gagp2RjkTGBBlPgWqLo%2F7b1b63zXJPUrqaSXqAfKcGl0c4Tcv7La1RKm3AY5n9w1n78m2G%2BTj1md2ZX4q13BfWwO9uRagTgD%2BSdIqg9RPasjk5IUSn8StL5C5G%2FC616%2Bjxs%2BxeV68KvqRLGCYIKKr7ISWmcPkkGqxQsfYXzo5JrzJBFefgLWUR%2BLdBK7ONk8WfntFavPYAR36MUultvMSKPDg4KQQYflVoETmWwP4EGYNxiHfZEoqQIaQ1YWk0uUE6uSmLu8%2FVI%2BtV6MisgJ1aATMN0S2bKabOy2F3g7xnxQ9O59%2Bi0Pivkm594vKpTm97nvntd1dM%2Bbppf%2FdlC30Qtgj3ewXKmVCoR1EhI--wpahtedzx7nIcdt4--%2BuXo%2FXXDPIQaVcUc17KFPg%3D%3D%22 (from https://github.com/blasten/turn.js/pulls)
+10:28:39	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+review%3Anone (from https://github.com/blasten/turn.js/pulls)
+10:28:39	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+review%3Arequired (from https://github.com/blasten/turn.js/pulls)
+10:28:39	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+review%3Aapproved (from https://github.com/blasten/turn.js/pulls)
+10:28:39	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+review%3Achanges-requested (from https://github.com/blasten/turn.js/pulls)
+10:31:08	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+author%3Aemilio (from https://github.com/blasten/turn.js/pulls)
+10:31:13	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+author%3Afedek6 (from https://github.com/blasten/turn.js/pulls)
+10:31:13	Warning: 	Link https://github.com/blasten/turn.js/pull/628 not scanned (follow robots meta tag)
+10:31:13	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+author%3Araksonibs (from https://github.com/blasten/turn.js/pulls)
+10:31:22	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+author%3AOlgagr (from https://github.com/blasten/turn.js/pulls)
+10:31:38	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+author%3Aigghera (from https://github.com/blasten/turn.js/pulls)
+10:31:47	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+author%3AOrrico (from https://github.com/blasten/turn.js/pulls)
+10:31:47	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?q=is%3Apr+is%3Aopen+-label%3Abug (from https://github.com/blasten/turn.js/pulls)
+10:31:48	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=N%2FzZoM6hpfJwpZnFYgjh3OEciTysa73oKwTqQFxK9TG5MjJyIb36wF0RJEQYmBxT836G0j4NO0ou%2BdUE40ii2woc4tvd481V2opK2XSsHyj%2FNDJyuE0cIf0aj3pqfbU25CZLAbdtzEXmp8hMO6ti3LbbGn8hJ0Hpsu9AYbw%2FoAV6LJO0WYo4PHfgrIO3niCZ10LiYlD0Oe2NS9vHpc3KOJSNo3r1htCnNLsRgT9gPAXToWCKc1v4ZV5fQy5KcnkkTiyBAR7aaakdBcdpZTN4%2FyRUEc9Q9gzuAvfo%2FzMbAgjTvb9fNMC2dEUKyq0gKgTkC81hOr9KBuzlTWKhQhwZROeMDOKEo1TLJVblsx6yp3pcfcho8K9inWjBaYbRUCddUr2IeF0hCOSc5ODvI2%2BMpM8TEEyost4RezagC1ZgbS%2FqEvYOUwpViUGMmanOm8W2dc%2FrrPjQakpXtlqNLGpzKRt8A853hzQowpfMnE15YAO8YRL78Qo8QlABEMT47iP85a7L1tkuxmP4SHqCdXkt2Y5KEmV88w%3D%3D--ehM16YKQG9hryS2v--GdqjDIFiL2iGhfNVllAXNg%3D%3D%22 (from https://github.com/blasten/turn.js/actions)
+10:31:49	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=TZB9zlxUVIeUCc%2ByLlNggyPumSwAbKlpP8WMlMEGY4EGIayXX47LxmdTz%2BRfs0%2FgxLqAob7vU6aqy%2FpM2%2BozESPOPjGN58xMGVsh%2F4tBUMw4JjZYG8qY%2F9QYBrVPpNNbPo3Uo6Kx030dNx7tH0m19vjtYKjg8%2FJjsJETEMjLn%2BseSe8rkJCMWKJe0%2BpHogdps5vf9etChvMLKtRcEDSoxk7NXZBOB2Nh4bSUNzmjL%2FFJuaZVrIXpRhhvNntD8Ceb%2BlbvzxJyyJpKXX2f%2B2O%2BsdcstIf%2BtzoDng0meMTUNq7JskSgUmq9pbb00truhtQXkEAYWGFOI2DQJ34%2BEmjQ73kXpBKk%2FEXgiMEfGAiL%2F7QJGt7B9YNr60QUhArq%2Btajbzy3qnn4V5lyf9J7uMcN%2FYuND5jYfWLFVl54FeiktGdrIbN7V1sN0XS9EyQmdkv2DJCEAxZMR9bu01kNYCbTslBpTIV%2B%2FbnQ97uE7KvyhS6i7qoAeqqStDrHXNZLr9Khjskvu92d9GdVo2ZaTsKHW75ZsFvL6w%3D%3D--SzeRoeqkFZAOdarp--Y%2FYjhYLwkKnz39KbjVtTJg%3D%3D%22 (from https://github.com/blasten/turn.js/projects?query=is%3Aopen)
+10:31:50	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=ULc4Ji3upgeZ9EdZKUj%2BVslm91cBd9rHjkX57Dm1TkEvQhm62iYwRpOOgBp1xHW1nI4n10XEHZZTS7mwE84fOnRyu3Eghmg4nD63G7pWnrSpjuttvYBynf0uPXBgnbNgBbrmIzez5kqnYxVwxnE10SCNm9SwHwDX%2FlqFhSCnDVZc6mK%2Fat9PnJtxOKrJ9HWfrdRo7WQbW%2Bo18%2BaK1NKZgvVyCoBkPGXYY68h88V%2Bur9BioeVufoRWyp5pKh3mXL4Ic4pb8Xs2BRWuycj4f0IRcUusOPdiU8fdZaFZtkmttSPjhrJ2ENhdc6Yr7QdSERkpz2Yd569SSHXO2YwQkE9%2FMzPKpiQ%2FStZaCRROhkC3XYLrvbg4W0WA%2BNXRokze9Ww5yd%2FVZp%2B6YjNiUKoMnJ1ShezqKtTokRpqITBHlHAurZjuCBH4k4KQr8hcYs%2FTy%2BjTxJjNB72kQiGMO0DtFEiOGV%2BQyfB86HGhYrVy1IHWhNy8gqb05JDZwF76MpxMOAwlVWhyYrP%2FnMtM4Crui5jzRDI--U7Sza8iahj4IGqA5--rLcfBp4kpiIIas%2F54tORWg%3D%3D%22 (from https://github.com/blasten/turn.js/wiki)
+10:31:50	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/wiki/Home/_edit (from https://github.com/blasten/turn.js/wiki)
+10:31:50	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/wiki/_new (from https://github.com/blasten/turn.js/wiki)
+10:31:54	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/wiki/_new?wiki%5Bname%5D=_Footer (from https://github.com/blasten/turn.js/wiki)
+10:32:04	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/wiki/_new?wiki%5Bname%5D=_Sidebar (from https://github.com/blasten/turn.js/wiki)
+10:32:04	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js.wiki (from https://github.com/blasten/turn.js/wiki)
+10:32:04	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=wlhLm21EMWVJD7fl3JdoQeCHg7UbYu1RQbk%2FxD4yRhkYloLlMY2BWl1dhaN3HsyT7Gue2xBxKdFs7OZ5%2FdU4d727scJUpyjRbxOEdr22DaR9K02htFfyAihkFQZKOQmYA%2BmKGjFPoq8Qx8FiFUjbfYwKeHdxHBjcNeQRJC8hPAW243%2BClBfH0C0qq4wams6oZAVdVSI7bpDRc9wGi4QyTVrSaKQvgySposUxlEqTp%2B9rCjgaHkr%2BlYbP8s3W6Q9kBAEP7PxdrQHDu5Otn2efgDmhaZX%2FUInnieHp5FhjJvJvegX%2FafwKMHSrEqHnRC1ZvPQW4KRhY4FioKzSwQukvJ6OXrl8%2FJWUJqZzj%2FE%2F8MRRjchZx%2B5%2BkD54fwCtGU9uidBHDmncqHaCsFXe0voIJpKVKZ7zPHHF5zbBNXq%2FWsEMVIpPP7NRwhybd2GALyT51fwZqj7E8apHZxg%2B1N5A6l2%2FRQUyzQhqpMBzIsxiSbux2OQacijc6RJXs6MKCcMrKgRKL44%2FZexz%2FToZcAcwMIJfcWJebA%3D%3D--fpIPqXGTemYdCwH1--nuwUogrv0gnXgAy2wV42tg%3D%3D%22 (from https://github.com/blasten/turn.js/security)
+10:32:04	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=OfxkGlAuO2TrVDoA86zX8jDPtXyj12flfYfCsNEFeKSGUQ4zGwL0N55atuW83XrUD7IPlNn46Te4e4PDwWsKSCuUfOPzo04i4uLCigDdhLx7ssrj9OykXmBg9hpluj7zEIAxfL33g2%2BpT15TMnhyJcxx8rgJBpxpTRmXIwdl9VKCtPGegkKwGZrtlKfGH81nkCT1N4SCS4sLL%2BMQtw%2FKlfICCe8h4FLFHDtvs%2F4793yCr5l%2FQ2zA5F6ZRsDb2xxplobHrRMDaViVObHOyt%2B1BG4iQHdsKtKKzl7g6qTSVqIXq7ufAfXtYKAnFbWxMBp6a1QZO3l8iOAVLJeSoqAwova8Nhc6cZJqyMzas1bZyirPSS6tZCVaLUsFRytZtckQyYx6KyvcAIlV5l%2Bo0rjnH2v7wTbnl67x%2Frx%2FJQgCokAIbKjnMqSYqQOm5tOGxyU7lwAXgSR%2BzbgNdGSCFKzu71Jnkv1DbQaee4kfFo%2F1HE3aJU4FIdNcGvLDNfFZpp4ksoDn2jdCPvHbFHQgJypfHwkn--LdnH%2BM5y5kkakGo5--UsqrQAlFsyJoYYICyziTjQ%3D%3D%22 (from https://github.com/blasten/turn.js/pulse)
+10:32:24	Error: 	"Too Many Requests" (429) at link https://github.com/blasten/turn.js/issues?state=closed (from https://github.com/blasten/turn.js/pulse)
+10:32:27	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=7NO8ls8Z2tSek6jPb%2BC7qX2JAn0McLNaAXsM9JvzMUkbVm%2F3CPRkHd5GHWxXpNhtTSGgz9WE468d7GSoh8KwtkM%2B%2FoXKtP3nMFZhfERRDTFdZuM%2FmJYTYdD0ZOL0AO9hJe2uP0O3f2V0qLosJHE6XAVHVE9UwkLZ9WwkFPtXIkus%2BXD5h5NucyVbu4F6bQqUXH6Tydb3W%2Fj5ETuxYYRguPauQE3rkzKOxgJNzTGv3FvCqmvDLTta6xKmLWmGuW%2BKExlvpLHPvgf4JZyafg7RkrP4CMOYRRO2RgP4jcB7kE9ZzRrrz3kQ1iC7LFV7O10GVuMSOjh9tQhZHs12E%2BV4m3NLDKvt5ENoTjXH%2FsnDI8KwbwnXqmZHlMa2DfmwvN39Zrdh6XPJ81MVTcayDmUwkQQ5ZH22MlXYo6FyC5pgmyHA94i2v9kiL3%2B66y4LeNTnZqGO87DzBP8maD7XqBETBNlzmTycs%2BbKGbo%2FEzob1TdnVRw8tog3jaa85zUrDs13Z0o%2BbLkzLmPNTJETZwcAxJKwD%2Fxu4Q%3D%3D--kX2%2FPLJiVPuem3if--SjRfL7LNdYjJgelW70PtkA%3D%3D%22 (from https://github.com/blasten/turn.js/watchers)
+10:32:33	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=6mWyDgG2AP3tj72LGFwcPHanqMML9iUa8TRug7f4YckLBKofMR6614aa1Vi1aQmmPLllcsgeVXVzT9sPkFchdA7HcCIHV0QJC%2BAxM3n8S%2FS9Z8SqVN3oXHr4tKeLC1QlC40bDS1Lw9EC1FKj4lYkstQ6eF89deZy2f2hZ9bNScUe0%2BBWsCVoymYKDWI7mmVjoterVjReC3qwIa6SxlgocBXq7ANyEVimaJhV%2B%2BuqUM8BaTDEvwG8NEjE4ZRA0OjJsJtHOTqmhjzl%2B5RT2WPC3%2FLo5RaVJMAajCNTTQGaIYcZyuScZnKL8Cj3WowltQQAGaXxiJrg7IFAYGjejZCmFnPfdQVklUclnga%2FbwlqzSAARMFL6Rte4W5vDixJ0uq4k1epbGZltgQZHLALkIaEpx6jP9r49ZQtE4ZO%2FacGpZ0QuKGIKMjQhiMcbomd%2BWtD6PQOJEYEBGjL9CbViSgEA4A61hyEEwA24TL%2FdMqM3I4U0EcIdbvFZADCQiW0Kbbqw8121%2F%2BlTMB0Wzh%2Fp7oR5OCu%2B6bi8Q%3D%3D--hobampYEDxcsExNp--YOZ175Ei7mjR7ZWlDQ2pwg%3D%3D%22 (from https://github.com/blasten/turn.js/releases)
+10:52:12	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/trending/robots.txt?since=daily
+10:57:21	Error: 	"Not Found" (404) at link https://github.com/"/_esi/rails_csrf_token_form_hidden?r=QnDqgo%2BU8pFHuX%2B3EZP9OdpkmRgggw5HXovPpnDd0WaPjY2v0hk0JYiuGeH%2Fhb0NHngGiL9uEl069Lzq9gTsV0zXemWA0pwKlce3srJox9kDPiSOwLqPCCi0r6mjAIBtx87qAeTtKNP3JsMdxCCrUy0kCGWvOPmixatSwW5PiSvVO3C%2BrFioaSXthQ15RN0kmMfiBDsps6iDp%2BuKtHtyMFOYcqvHGQXJ3iFo6gSc9W%2FG57%2BBXBbVk5GJfOVm2542p5pLj%2Fi4IVzk05f9j7XWGjPE%2BAGCVby4g%2Bz5lCNKeiXGFhvcTHcablUyL%2FX8ve8YN6NWIZ57MCNZMb2ExHal5RoD4z4hU4Wyr%2Bq60QaPIlOtywA1%2FOpVeMqpXSbpgvqeyDUyG2XXK8R5hGHTAvCWdgd8NZtqWJG%2Fne7AP%2B3B1cJ82791Wj57a1Oj9OGXCl07DdS70NgcvYqjzSwm93S8qKJyXuofnsfacrvADhGxBG3rF%2B0IKSZu%2FCEeEms8SZRBMDg%3D--QmQ2RCuyHL6c6yAu--Ut0CH%2BuNQH3ziQcRrL7x8w%3D%3D%22 (from https://github.com/blasten?tab=packages&repo_name=turn.js)
+10:57:21	Error: 	"Not Found" (404) at link https://github.com/search/custom_scopes/check_name (from https://github.com/blasten?tab=packages&repo_name=turn.js)
+11:01:43	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/users/blasten/achievements/quickdraw/detail
+11:01:43	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/users/blasten/achievements/pair-extraordinaire/detail
+11:01:44	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/users/blasten/achievements/yolo/detail
+11:01:44	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/users/blasten/achievements/arctic-code-vault-contributor/detail
+11:01:45	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/users/blasten/achievements/starstruck/detail
+11:01:45	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/users/blasten/achievements/pull-shark/detail
+11:03:14	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/orgs/character-tech/topics/most_used?context=overview
+11:03:51	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/graphs/"/_esi/rails_csrf_token_form_hidden?r=Ps4TIsrBreE6ix5eSFlAWpLdj9yGfoUD4r0pUF8CxQ1l9GsvaxsusYBpK%2B%2BgWgT%2FTdzLkcRgVxguhgJfweATJTRgORhdJN7swSSbO1zS9YzFDKLiiXVhLquXJW4YcdJ9tDfkfVOlRQttO1dwN6EQa%2FwSeC4nC4HUTNsPkT9S4uCrjPkyMDEtIZLxjIJ9e4U7hFO4AFzqBi0h7Vh6U61HhBvrzfbQ8jRDqkf0h6sioe2XRdF8KIYqLc%2BTTlgmei9t4B3KluRCVgWJMbafV77qpn4SZ%2Fdnk5yU%2Fn%2B4dBNNpAff1Z0jN89gD%2F3TK4Qo12vQAQJSR5QQaEfnkT%2Fq%2FBSEZRhMfdanAZl%2By2uVWkfN0G3HeJuP1nPSP2a3BZ9%2FSaHWBPtwRJLKDMK%2Bn8wVY9qkt8kt2wfcA4GLVlnoVagUwNmbwyZCf54Gi7xKEBOdl7NWm2%2BsyfllODpCCzZIJfAzjvBhW34sRitGJHFTr5xv52vBm%2FGbBxasfYwQW%2F%2FRpUhSjO%2BUDKeBU3%2Bc6iQIbTDch3ciKvkMRgvws6yVvhtlTuIAPQiA7qQ%3D--HffcWNlHlU3mabDD--WIN42n8T%2FqtFzD9%2FsyCc9A%3D%3D%22 (from https://github.com/blasten/turn.js/graphs/contributors)
+11:03:52	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/graphs/{{ authorUrl }} (from https://github.com/blasten/turn.js/graphs/contributors)
+11:03:52	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/graphs/{{ authorAvatarUrl }} (from https://github.com/blasten/turn.js/graphs/contributors)
+11:03:52	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/graphs/{{ contributorUrl }} (from https://github.com/blasten/turn.js/graphs/contributors)
+11:05:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Main+Page not scanned (follow robots meta tag)
+11:05:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Main_Page&action=edit not scanned (follow robots meta tag)
+11:05:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Main_Page&action=history not scanned (follow robots meta tag)
+11:05:41	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Main_Page not scanned (follow robots meta tag)
+11:05:41	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Main_Page (from www.turnjs.com/docs/index.php/Main_Page)
+11:05:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Main_Page&oldid=799 not scanned (follow robots meta tag)
+11:05:41	Warning: 	Link www.turnjs.com/docs/index.php?title=Main_Page&action=info not scanned (follow robots meta tag)
+11:05:42	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Corners not scanned (follow robots meta tag)
+11:05:42	Warning: 	Link www.turnjs.com/docs/index.php?title=Corners&action=edit not scanned (follow robots meta tag)
+11:05:42	Warning: 	Link www.turnjs.com/docs/index.php?title=Corners&action=history not scanned (follow robots meta tag)
+11:05:42	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Corners not scanned (follow robots meta tag)
+11:05:42	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Corners (from www.turnjs.com/docs/index.php/Corners)
+11:05:42	Warning: 	Link www.turnjs.com/docs/index.php?title=Corners&oldid=682 not scanned (follow robots meta tag)
+11:05:42	Warning: 	Link www.turnjs.com/docs/index.php?title=Corners&action=info not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Turn+Events not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Turn_Events&action=edit not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Turn_Events&action=history not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Turn_Events not scanned (follow robots meta tag)
+11:05:46	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Turn_Events (from www.turnjs.com/docs/index.php/Turn_Events)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Turn_Events&oldid=418 not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Turn_Events&action=info not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Views not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Views&action=edit not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Views&action=history not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Views not scanned (follow robots meta tag)
+11:05:46	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Views (from www.turnjs.com/docs/index.php/Views)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Views&oldid=817 not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Views&action=info not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Zoom+Method%3A+destroy not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Zoom_Method:_destroy&action=edit not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Zoom_Method:_destroy&action=history not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Zoom_Method:_destroy not scanned (follow robots meta tag)
+11:05:46	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Zoom_Method:_destroy (from www.turnjs.com/docs/index.php/Zoom_Method:_destroy)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Zoom_Method:_destroy&oldid=595 not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Zoom_Method:_destroy&action=info not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Event%3A+turned not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turned&action=edit not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turned&action=history not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Event:_turned not scanned (follow robots meta tag)
+11:05:46	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Event:_turned (from www.turnjs.com/docs/index.php/Event:_turned)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turned&oldid=812 not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Event:_turned&action=info not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Special:UserLogin&returnto=Page+Object not scanned (follow robots meta tag)
+11:05:46	Warning: 	Link www.turnjs.com/docs/index.php?title=Page_Object&action=edit not scanned (follow robots meta tag)
+11:05:47	Warning: 	Link www.turnjs.com/docs/index.php?title=Page_Object&action=history not scanned (follow robots meta tag)
+11:05:47	Warning: 	Link www.turnjs.com/docs/index.php/Special:WhatLinksHere/Page_Object not scanned (follow robots meta tag)
+11:05:47	Error: 	"Not Found" (404) at link www.turnjs.com/docs/index.php/Special:RecentChangesLinked/Page_Object (from www.turnjs.com/docs/index.php/Page_Object)
+11:05:47	Warning: 	Link www.turnjs.com/docs/index.php?title=Page_Object&oldid=727 not scanned (follow robots meta tag)
+11:05:47	Warning: 	Link www.turnjs.com/docs/index.php?title=Page_Object&action=info not scanned (follow robots meta tag)
+11:05:48	Warning: 	Note: due to https://github.githubassets.com remote robots.txt rules, links beginning with these path will be forbidden: /*/pulse, /*/tree/, /gist/, /*/forks, /*/stars, /*/download, /*/revisions, /*/issues/new, /*/issues/search, /*/commits/, /*/commits/*?author, /*/commits/*?path, /*/branches, /*/tags, /*/contributors, /*/comments, /*/stargazers, /*/archive/, /*/blame/, /*/watchers, /*/network, /*/graphs, /*/raw/, /*/compare/, /*/cache/, /.git/, */.git/, /*.git$, /search/advanced, /search, */search, /*q=, /*.atom$, /ekansa/Open-Context-Data, /ekansa/opencontext-*, */tarball/, */zipball/, /*source=*, /*ref_cta=*, /*plan=*, /*return_to=*, /*ref_loc=*, /*setup_organization=*, /*source_repo=*, /*ref_page=*, /*source=*, /*referrer=*, /*report=*, /*author=*, /*since=*, /*until=*, /*commits?author=*, /*report-abuse?report=*, /*tab=*, /account-login, /Explodingstuff/ (see in the options to disable this)
+11:05:48	Error: 	"Not Found" (404) at link https://github.com/"/_esi/rails_csrf_token_form_hidden?r=lc3tEMXkPav50ASVaqcWVXgzzFYM7DgU77Sp5mYE1TPtTxzbtMh6jNQb243GSH9%2BtjQX%2Fkx9UZ7QA%2FjdhDMsZCOtUdSF0%2BV0jfJuWl2pfzPpHlW2BCWj0qYC8p986%2FC7EYzp7k1Zknrk%2Bub4VuCsdmksblbrs0B8Jy4L1rQRDUs%2FjI7f1Ur0To%2BgnyYjeqBwNEUn4Le6utaiXf1w9GmfPro1PE0%2Bz94G2unFpslbeZTB5cD9p47oWSJ7xHRCK5HTtZ%2By%2FTWE65Z9MZVsGtkrZDITNkYjLahVE7IQ%2FKSPydXyvxe3brX95tIxiaVLUl74cRoli2hgV1AhfpXapXyl1tIs6VmklxYjdVQYBiifHiRGp4%2BmLnZItj3fbsRF83rgPEEm9E1GMMk1H%2BBjjRu64OOcNd4T17t87TQcfYyyvJMx9PAHgOj7ccvfigEfOsnaifiVGssr%2BU3fsS%2Bws%2BrVudVj9EEls5fMWWDVJwPavGH0DyyFUYXq6f4X8qGJnk41nsA%3D--TMM4vy54MX0KJKdA--JUqTI01aePL7kdxwUFSqfw%3D%3D%22 (from https://github.com/security)
+11:06:04	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/github/roadmap/hovercards/citation/sidebar_partial?tree_name=main
+11:06:06	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/github/roadmap/used_by_list
+11:09:30	Warning: 	Link https://github.com/github/site-policy/pull/582 not scanned (follow robots meta tag)
+11:09:48	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=7JawzLbFEJF9%2BYCvMo6kA3rW4IOy3pT4ml2oquKVivooHHLKUGL3UNzlUF0zfU79%2F1fcps%2B1xWDk2XYLMIrYbLSWc0ovUwo5LDmfnLDMasxSM7toH8lKmTX8tAAquf%2B1acnj%2FN%2Fzq6h%2BtccuaaLjgwA0%2B8R%2FiPQihxaMIOxFrzA9s28orhplvpQUU2ECvPrFoLagK5l6I1xPu8P3Up3HStubEp3iYyRcUN518PA7DVm3NNGbZ3PITfUaMVPjiE4LsnIIfSirZMZfjK6E8svsOAgGTDb6CNn22uKu61Dzu0TqtQaFl%2BQoy4SCnWINeWCRptRn%2FIcwQ8iH8zV8maEnFteUfkP282kgRFzvgWcuJCChcMl63kGWmcOaXBLZQO0vAuJ2ectJLQHBn2iC59j0KO6XKYcQT1EzRYIcFy%2F3nnlqyBDyrCCVxe6nd%2BZi%2Bz6gllRcNTDRppwjjxj2okxR8BYKoQxjf3gCElg3wI8cUYRwphtsvBRqnrJPT%2BZJ0OuMaz6bEA9bB4mJERXhzi6aOui1Rih6jBcn6H0%3D--k44PmGN%2Bl49a%2BaHg--i2sVI6s5cOeYJ0dMRlwBCg%3D%3D%22 (from https://github.com/blasten/turn.js/stargazers?page=2)
+11:09:50	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=Uvnt%2FiK9bIMJhuonREKh%2FhI4s9bfukBB2yworBmOcnMG%2FeH9bpxZbkcHunBGFWDcbuU1JmpvYEKG%2FxDe%2F7FTsZvz%2FRJPRB46J69z87JfYcDBuBKS45E4VdJSnlVcwXFZP2%2FwUe8%2FG%2BCXWppeehYQGbCTzPYjhaZyxtlpUjK0tzAL%2BJxqhEe3W%2FKqMcB3E%2BteWSiGEjuBZAKCoAfGEQMNUwu153cQcgXFco%2B6ZGfxYpnU0M38NpB334vhWzpQ2BllugWrXGDNUQNhIh5vk%2Fnq%2FrUSGohX50HbBZALU9Pc%2B886%2FFEGzPZQpbEu5V0YJ3L1wetWa8FY7Bdp7GKHRrVDX%2FZy8gRltdii7NdE%2FJ2KfZ4%2FCFJFqHQ09IC%2FkULXo9KFeqDL1HmkadECjIadigXWJhFSkhANrGeMAKqLY1SkUywbXuWm%2FhywN1uW5EW7cvEVWsVAUzVJfVSalWdXuf4%2BLOzhKheX6FywFrVBHFjA0eDoaRp0Xnq1KTI5d49Dwov9xX3DOl9t3MfbkY66%2Bq6Wao7uWUtS8CSfvjc%3D--ypduw4AF52kR4mD8--Hu2xm7IuKsNFPk1jZ%2BSBNw%3D%3D%22 (from https://github.com/blasten/turn.js/community)
+11:09:52	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/graphs/"/_esi/rails_csrf_token_form_hidden?r=Yfg4x9i8iymVYrI3ObyIs6ECjQiE2ALfwsD%2FXDFuggTn6kQPgjPQ8tM2cvCbH3y88lCMBKmkp0jUX1lh2KZIPQkpFkHdGgPa1BGK4lx4Nu8HmprEsu5aT0OiMEcR%2BMQSWisui%2FPre4KGuWhQMjnwxOou41Dy5sjq4k3s2izsdzfk2oUKfB9T8GYDgQH5SB8krfut2Cmc12CmjF7L1nL%2FN6R1uigpFzQsVRlh0rsvKc1twvaZOVCWnbO8sGXbqhPzYufELJz%2FuLrhE8W2Mpxp0DLJUYgeofm2x4x%2FVg2C4jKoHmIld50%2Buf6%2BG2nw6il%2BtPYeGNpP2rXH%2FDRQBFw7D8ACysk%2BtZfWjQw%2Bx%2F%2FAcb0WR8JHlbjhw%2FMbeMNaG1yYDymHkjGl%2BNKk0UZSWYFT%2Bp6mVUtERrqkGtTh%2Fq1CjJvzuY%2FjGK8EVDUE0RXuzVV%2F1Dy%2FhmlQjnhG3MdGaZsxc9xmvE%2BoLQoQyoTCw7lCuKVJTuPC2dmeEqV2y8CLuawaF2Vjw23hMCSrVGUkvekuHHCZhn%2FAM5q96NVBfGoE8qvoWPoClq7xpL90--lR%2F%2Bov%2FlBP8R2lGA--ihpj1TbUZZ6U2UIPAoo6Kw%3D%3D%22 (from https://github.com/blasten/turn.js/graphs/commit-activity)
+11:09:52	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/graphs/"/_esi/rails_csrf_token_form_hidden?r=l8VEaXw77iD60lu%2BcR%2Bd91d86%2FRWYn7tbdGJI3q%2FDfgn4sD4DLOIhx85FHnKpJi%2BJoIcR6sAnj4a8O5OtF6IQqNRmFhMb1ucTZoxZz4iK7uPkwBCnkAW%2FbkCqgRLP%2FVI5J3wMI6cMoESQJW2Rj%2BXrVGS8W9xEibuso%2Bd2%2FkJBS%2FLIwc%2BJG%2BISIJDzCXvZ2VjJrYJwgOaj6RF75tzInNLfPPsc6FkWzIRjlzMKXb%2FdurG4gVncSonvWaOAmpUeu%2Fl2RN7yWLZQTcDdyVaCuBGn%2B98%2FzJKPlymU6vmXBEUWejAOvaqqLs%2Fbrl4vHoPOV4x3yBAdThC6EbUB6ofjWv2WotgoB6t78ewKdRCnUS%2B%2B%2BqGN7N%2BN1XRgX3355nDMeHl4WeLCpLxm5XCnP5oXi6ohO8O6rJTK7HpHnccsTgJQDJ6ZRWdaUR5oHqq2ntZbUVA1cfr4cxkQTBcD2aUpupWT5DWMkWy4FSMV%2FTlfHFQ1ljvDx4K9BLMIJ4iQdGKgsmFDn7HHMa2WO3%2FiEPMdTCS6J%2BEzAnwmUC9T%2BOdQDzufRh1QkVD42zJDuNg--9RCAwuwQC1jtsyVQ--86jTf1Hwj%2BZaYDMuDB9jvg%3D%3D%22 (from https://github.com/blasten/turn.js/graphs/code-frequency)
+11:09:53	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/network/"/_esi/rails_csrf_token_form_hidden?r=PP3ZUTiPnTlOukKRzAMdRX9BGWvVwJQObpiyI8bCdtxvEYjI2UOQwq9EkZ79FH2H%2Bagh9%2F1TauVEMPh%2B4rQL%2Ft5XlPYPGfZnXwXq6u1Iral83wj0eLCoeeMcK7O4mEsdbqE8PFsfkzr%2FyjyQiXyDx67ZnYSwW8D%2BCVjMt%2FA2RZcDPXmuvxyl4JbyQ9sZrKKy7RgYRVg0wA5IcdyPXgOenFbSssGXSWbcK5fqnWCyzr%2FQIPtqBwUP6frujoxXrYws93UEAKYgtbpPDxy5AwzcysIA5jdNGdjj1gghpRTcisIAgByVZUSr%2BT89byOFa6lzoRRnyk9waXNGa8q8MMX9ZGPwIStghkr%2BfQcXXCzW%2B0Zs1vVb9u%2F5%2F8gjpze9kEAkBZoIoTmiACqa7fWGt11%2FFyOoj4%2B29cuc4tnfearB3Dlek8ER0cRUG9vQqOCoNJr7X%2FkaqIuvj83Dn5L%2FEdTQyS3apuO5pMv5POt0e%2FtZlFbVXq9yWd%2B%2FqmKFL9xq%2BcBlZa0svL7uFisK0H%2FaKHh6zkMhle1bpa5maQTwq%2F%2BzizUGToX%2B9xo%3D--m7%2FZnYKZeGCXlizD--s10qITrL2wGBggLSASxlCA%3D%3D%22 (from https://github.com/blasten/turn.js/network/dependencies)
+11:09:56	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/dependency-graph/sbom (from https://github.com/blasten/turn.js/network/dependencies)
+11:09:56	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/"/_esi/rails_csrf_token_form_hidden?r=GdFt8lxxGH1YLZ9OUSYQOzk%2BWIOgg9NwYx8Giuvhf6P66K83NSjouKQKpCT7Kce3jAhv4y0GYrekU%2BMYx1XuZZkGQoIt9YuPj%2BAyi2BbvZ5Td56rf0QJwuqeucZQDmKuxReGUnxMDkHPV%2BIYO7Wcn0%2BfsUkIddgKtEZE%2FkOPZWtZSwrH2tyRsPsU1eZOT%2F6nXtIniIC8xjfb7ohQPP1Xe5KjVzXmeDb%2FZYRPpRuajlyKhshRXb9S4%2BcWRMNHMvSzh5WBub61Ej5cmtiKUNzDPPde4mxFamsdSDZ3cc0cRkyvE6WUS2y4R0OJezNnZbnycGH9ko9b%2FLq1iUp968gxC6GvkO7GEf3UKtjGwtGHqrqiSxSKo71nWICyeSYKELVwIh5TT5MPPay9UzLlbiyOnHri086ygQxZ6JyQz95RmkwtetuCBsSP82ySmGlr%2BHH972qZc3sxVl6J32hI4qKI8z83dY6JQvvFLs0mQYKhQnoQElO8TDurjgW6ogDFut1vl4D8oJwS%2Fcn0G1hXyPwKo9qPpbJgFQ%3D%3D--pKC5nhQffoBp5Mnf--oJ8D0YbXUt6xn6kBa5Oq1g%3D%3D%22 (from https://github.com/blasten/turn.js/network)
+11:09:56	Error: 	"Not Found" (404) at link https://github.com/blasten/turn.js/network/"/_esi/rails_csrf_token_form_hidden?r=fp%2FcWXNhnPwVzoonUrNY%2FVyWvt2iqn5bxOJb8HzHtVa3YBzklKEmqPc2DTQTVQugym6eeTOSNxHo%2F2P4%2FqgAmNez6DARVAbzFt%2BGg7%2FxDiOfw9EPAuC%2F2p7CRFKJ6brLPakFSnL7LLYyb2DWTNHz%2FGjryNzQ1qNngbj9lM5CSHGEvKyKzEnY6kyEUkJsuekt%2B%2FFGF4R6tKJj1JTHump2VFi5MBPh1zH3bpXjeTMt9K6oGRRqQ8mQPKUj%2BeDZL76H4yZBgjOO7OyljJxIiFOzWcpXrgpCrDJoLPbjnv%2BnekoTFNYXy4XKVdRiptA8LECqM28Lpcb3ukIZc%2BVdhBVpWjvw0wYnJ%2Bg%2Bnip%2F6qDDeN0%2BvR13VV1lV0pl90uzXd6MWPk7fD6osKhDBqdlr6PBkk1aHOsH0jUjUiaH5x5MTk5E72wXQwokezO7BVeghil0SLClj9r7FcjiNktUxkOuBwXnjhHQ7cuhDqsvkwk57yLj0Ad48zcbC3Z%2Bd3nMzhPLMor7l5Y%2FVTCHpLQLeFa%2Bi5D%2FlY3lYiCbAxR1s9vqH9gs5w%3D%3D--F8bLvQSL5y%2F%2FYHPO--E%2FdyAjlxHrNPMj6UXgGtRg%3D%3D%22 (from https://github.com/blasten/turn.js/network/members)
+11:10:11	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/141141/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:10:23	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/20562471/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:10:39	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/3l3n01/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:10:54	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/4z4z3l/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:11:10	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/540296910/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:11:25	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/701/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:11:40	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/888hou/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:11:56	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/89hardy/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:12:11	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/abdebot/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:12:26	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/abidansari/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:12:41	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ablozhou/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:12:57	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Abu75/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:13:12	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/adamhaas/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:13:28	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/aernst/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:13:43	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/agiza/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:13:59	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AhadNoor/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:14:14	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Ahmar/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:14:30	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/aitnasser/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:14:45	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/akinza/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:14:59	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/akshar100/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:15:12	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alaa-eddine/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:15:27	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alaasdk/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:15:40	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alan-adesign/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:15:55	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AlanGreene/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:16:07	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alanjhonnes/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:16:23	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alarez/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:16:35	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/albertshen/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:16:51	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alemaciel/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:17:05	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alexkwood/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:17:21	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AlienX/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:17:33	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/allvie/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:17:49	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/almendro/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:18:04	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/alsitn/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:18:20	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/amedeomantica/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:18:35	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/amiknyc/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:18:52	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/anbuselvan/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:19:07	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/andrehol/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:19:20	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/andrewsheelan/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:19:35	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/andupotorac/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:19:50	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/angck/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:20:06	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AngusUbangus/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:20:22	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/anherdene/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:20:34	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AnirbanKundu/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:20:51	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/anjanrs/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:21:08	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ankalago/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:21:25	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ankitjamuar/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:21:41	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/anoopkp06/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:21:55	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/antongorodezkiy/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:22:11	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/antoniodesouza/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:22:24	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/anver/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:22:40	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/aprishchepov/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:22:57	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/apurvgupta2804/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:23:15	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ardani/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:23:31	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ardorleo/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:23:45	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/argayash/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:24:02	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ArShown/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:24:19	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Artabazoom/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:24:36	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Artemis909/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:24:50	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/artemkostenko/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:25:06	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/artfuss/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:25:21	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/artskin/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:25:35	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Artyom4D/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:25:51	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/as-abhinav/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:26:09	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ashishtam/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:26:21	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AshWilliams/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:26:38	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/ashwin107/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:26:51	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/asiridissa/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:27:08	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/askender/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:27:21	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/assiduousslacker/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:27:38	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/attawit/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:27:55	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/auginator/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:28:12	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AUSdomgarcia/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:28:29	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Avalanche/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:28:46	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/averzo29/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:28:59	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/avukonke/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:29:15	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/aweiand/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:29:28	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/awesome/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:29:41	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/AxelKlarmann/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:29:58	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/axpart/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:30:14	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/b4dtR1p/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:30:31	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/babarab1987/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:30:47	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/baokk/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:31:03	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Barhoom/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:31:20	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/batka/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:31:33	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bebee/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:31:51	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/beingsane/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:32:08	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bekatom/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:32:25	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bekerov/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:32:41	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bennypk/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:32:57	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bennyreid/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:33:10	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/BerndtGroup/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:33:24	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bhsudeep/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:33:37	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/BIGGANI/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:33:53	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/binspaul/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:34:10	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/blosky/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:34:26	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/blue148/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:34:42	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Bluinfaccia/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:34:58	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bmfay/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:35:16	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bmvakili/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:35:33	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/BobLuo/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:35:49	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bobolu/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:36:05	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bobozhengsir/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:36:18	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bobwol/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:36:34	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/borort/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:36:52	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/boy1212/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:37:08	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/boygagaoriginal/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:37:23	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bpbhat77/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:37:39	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bpgs/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:37:57	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brad001/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:38:13	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brandonHeaslip/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:38:29	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/BrandTurner/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:38:46	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/braveh4rt/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:39:02	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/break123/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:39:15	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brenothales/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:39:32	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brestrepo/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:39:48	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bronfman/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:40:04	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brucepc/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:40:21	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brunettia/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:40:38	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/brunoom1/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:40:55	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bssbbr/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:41:08	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bububa/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:41:11	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/bububa/turn.js/used_by_list
+11:41:22	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/BugHunterPhilosopher/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:41:40	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/Burakhan/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:41:57	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/calvez/turn.js/hovercards/citation/sidebar_partial?tree_name=mate
+11:42:14	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/cancanx/turn.js/hovercards/citation/sidebar_partial?tree_name=master
+11:42:29	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/cannandev/turn.js/hovercards/citation/sidebar_partial?tree_name=master
